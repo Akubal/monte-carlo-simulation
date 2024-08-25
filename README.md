@@ -35,6 +35,3 @@ The function identifies a bounding box that covers the potential intersection ar
 - Use `BernoulliSings(N, T)` to understand the behavior of random Bernoulli matrices and the likelihood of them being singular, which can have implications in various fields including cryptography and random matrix theory.
 - Use `VolumeSphereIntersect(P, Q, R, S, T, W)` to estimate the volume of intersection of two n-dimensional spheres, which can be useful in problems related to spatial analysis, physics, and multidimensional geometry.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
